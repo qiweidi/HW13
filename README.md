@@ -22,3 +22,9 @@ week 4 present
 Challenge
 The challenge for my part is the disappearing effect of my loop, it cannot be simply use function.todelete command.
 
+complete link:
+Link:https://editor.p5js.org/qiweidi/sketches/mgU5_P729
+
+
+reference:
+https://editor.p5js.org/qiweidi/sketches/H38CBZEN_
